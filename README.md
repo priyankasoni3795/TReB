@@ -22,5 +22,9 @@ Mr Ajay Gajanan Hajare
 
 https://github.com/AjayHajare
 
+# Contact
+If you have any questions, simply write a mail to sonipriyanka31994(AT)gmail(DOT)com.
+
+or ajayghajare(AT)gmail(DOT)com.
 
 
