@@ -1,6 +1,7 @@
 # TReB
 # Execution Environment:
-Operation System: Ubuntu 22.04.1, 64bit.
+Operation System: Ubuntu 22.04.1, 64bit. 
+
 Physical Memory (RAM) 32 GB.
 
 # Prerequisites
