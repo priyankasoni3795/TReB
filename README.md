@@ -7,14 +7,34 @@ Physical Memory (RAM) 32 GB.
 # Prerequisites
  Java SE Development Kit 19.0.2
  
- Eclipse IDE for Java Developers 
+ Eclipse IDE 64 bit for Java Developers 
+
+# Installation
+ -> Download Eclipse IDE 64 bit from https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers.
+ 
+ -> Then extract the downloded zip folder and Open eclipse-installer in terminal.
+ 
+ -> Then install Eclipse by typing   ./eclipse-inst
+ 
+ -> Now install the Eclipse IDE for java developer, after that Eclipse IDE will visible and it automatically took the JAVA version and you can browse for latest version of JAVA 19.0.2 
+ 
+ -> It will install Eclipse under the following location and then click install.
+ 
+ -> Now set the license agreement and click accept now, it will successfully instal Eclipse.
+ 
+ -> Now click launch to open it.
+
 
 # Code Execution 
-There is Main.java file which contains the code of proposed algorithm. We needto to simply run that java file to get the output. 
-Once execution started, it will aske for some properties of components used in our architecture such as double computational_demand, device frequency, channel frequency(bandwidth), Distance of IOT device to fog node, power of iot device, power of fog node, output size, computational power of fog node. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
-So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related fognodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
-Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent task. Then for each task it will ask to enter computational demand of each task and input size of each task.
-Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
+ -> There is Main.java file which contains the code of proposed algorithm TReB. We need to to simply run that java file to get the output. 
+ 
+ -> Once execution started, it will ask for some properties of components used in our architecture such as double computational_demand, device frequency, channel frequency(bandwidth),   Distance of IoT device to fog node, power of iot device, power of fog node, output size, computational power of fog node. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
+ 
+ -> So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related fognodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
+ 
+-> Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent task. Then for each task it will ask to enter computational demand of each task and input size of each task.
+
+-> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
 
 
 # References
