@@ -32,7 +32,11 @@ Physical Memory (RAM) 32 GB.
  
  -> So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related fognodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
  
--> Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent task. Then for each task it will ask to enter computational demand of each task and input size of each task.
+-> Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent tasks. Then for each task it will ask to enter computational demand of each task and input size of each task. 
+
+-> For simplicity we have given a text file which contains sample input values for number of independent tasks, computational demand of each task and input size of each task. First line this text file represents number of independent task. Then from second line, each pair of two lines represent computational demand and input size. These pair of values repeat for given number of tasks.
+
+-> The sample input files are provided for both homogeneous environment (computational demand and input size is same for each task) and heterogeneous environment (computational demand and input size is different for each task).
 
 -> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
 
