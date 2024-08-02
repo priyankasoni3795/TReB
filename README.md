@@ -36,7 +36,7 @@ Physical Memory (RAM) 32 GB.
 
 -> For simplicity we have given a text file which contains sample input values for number of independent tasks, computational demand of each task and input size of each task. First line this text file represents number of independent task. Then from second line, each pair of two lines represent computational demand and input size. These pair of values repeat for given number of tasks.
 
--> The sample input files are provided for both homogeneous environment (computational demand and input size is same for each task) and heterogeneous environment (computational demand and input size is different for each task).
+-> The sample input files are provided for both homogeneous environment and heterogeneous environment.
 
 -> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
 
