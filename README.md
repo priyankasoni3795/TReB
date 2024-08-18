@@ -28,9 +28,9 @@ Physical Memory (RAM) 32 GB.
 # Code Execution 
  -> There is Main.java file which contains the code of proposed algorithm TReB. We need to to simply run that java file to get the output. 
  
- -> Once execution started, it will ask for some properties of components used in our architecture such as double computational_demand, device frequency, channel frequency(bandwidth),   Distance of IoT device to fog node, power of iot device, power of fog node, output size, computational power of fog node. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
+ -> Once execution started, it will ask for some properties of components used in our architecture such as double computational_demand, device frequency, channel frequency(bandwidth), Distance of IoT device to fog node, power of iot device, power of fog node, output size, computational power of fog node. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
  
- -> So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related fognodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
+ -> So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related to fogNodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
  
 -> Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent tasks. Then for each task it will ask to enter computational demand of each task and input size of each task. 
 
@@ -38,7 +38,7 @@ Physical Memory (RAM) 32 GB.
 
 -> The sample input files are provided for both homogeneous environment and heterogeneous environment.
 
--> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
+-> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm TReB and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
 
 
 # References
