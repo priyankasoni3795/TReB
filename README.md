@@ -28,7 +28,7 @@ Physical Memory (RAM) 32 GB.
 # Code Execution 
  -> There is Main.java file which contains the code of proposed algorithm TReB. We need to to simply run that java file to get the output. 
  
- -> Once execution started, it will ask for some properties of components used in our architecture such as double computational_demand, device frequency, channel frequency(bandwidth), Distance of IoT device to fog node, power of iot device, power of fog node, output size, computational power of fog node. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
+ -> Once execution started, it will ask for some properties of components used in our architecture such as double computational_demand U[210-480] Mcycles, IoT device frequency (16)MHz, channel frequency(bandwidth) (10)MHz , Distance of IoT device to fog node (100)m, power of iot device U[0.1 to 1]W, power of fog node U[1 to 2]W, output size U[10,20]Kb, computational power of fog node U[0.35, 0.55]W. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
  
  -> So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related to fogNodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
  
@@ -38,7 +38,43 @@ Physical Memory (RAM) 32 GB.
 
 -> The sample input files are provided for both homogeneous environment and heterogeneous environment.
 
--> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm TReB and will generate the output. The output values given by program are Total Energy, Total Latecy and Number of Outages(if any).
+-> Now all the inputs are feeded to the program, it will perform the calculation as per proposed algorithm TReB and will generate the output. The output values given by program are Total Energy, Total Latency and Number of Outages(if any).
+
+# Usage
+
+-> For both Uniform and Random generation 
+
+-> We have taken the number of IoT devices that vary in the range of [250, 500, 750, 1000] for both homogeneous and heterogeneous scenarios.
+
+-> We have set 5 Fog nodes in the fog netwrok for both homogeneous and heterogeneous scenarios. 
+
+-> We carry out 10 test runs for every scenario. We have added the input file for each parameter.
+
+-> Important Parameters such as - 
+
+-> Input size of task is 300 Kb U[300-600] Kb
+
+-> Output size of task is 10 Kb U[10-20] Kb
+
+-> Arduino frequency is 16MHz for local task execution.
+
+-> Bandwidth is 10MHz 
+
+-> Computational demand of task is U[210,480] Mcycles which will decide the task execution.
+
+-> Maximum transmission power of an IoT device is  U[0.1 to 1] W
+
+-> Maximum transmission power of a FN  U[1 to 2] W
+
+-> Computational power of FN  U[0.35,0.55] W
+
+-> Computation rate of FN  U[6,10] GHz
+
+-> Deadline of a task  U[30-60] s
+
+-> Quota of FN  [50-500]
+
+
 
 
 # References
