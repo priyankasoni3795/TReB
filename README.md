@@ -74,7 +74,19 @@ Physical Memory (RAM) 32 GB.
 
 -> Quota of FN  [50-500]
 
+# Contributors
 
+-> Priyanka Soni
+https://scholar.google.com/citations?user=LZKL3o4AAAAJ&hl=en
+
+-> Ajay Gajanan Hajare
+https://github.com/AjayHajare
+
+-> Dr. Sourav kanti addya
+https://souravkaddya.in/
+
+-> Mr. Keerthan Kumar T G
+https://scholar.google.com/citations?user=fW7bzK8AAAAJ&hl=en
 
 
 # References
@@ -89,7 +101,9 @@ with inter-user task dependency, IEEE Transactions on Wireless Communications 19
 systems, IEEE Internet of Things Journal 5 (6) (2018) 5089–5096. doi: https://doi.org/10.1109/JIOT.2018.2871251
 
 
+# Contact
 
+If you have any questions, simply write a mail to priyankasoni31994(AT)gmail(DOT)com.
  
 
 
