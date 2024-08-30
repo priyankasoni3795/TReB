@@ -88,15 +88,19 @@ systems, IEEE Internet of Things Journal 5 (6) (2018) 5089–5096. doi: https://
 # Contributors
 
 -> Miss Priyanka Soni
+
    https://scholar.google.com/citations?user=LZKL3o4AAAAJ&hl=en
 
 -> Mr Ajay Gajanan Hajare
+
   https://github.com/AjayHajare
 
 -> Mr. Keerthan Kumar T G
+
    https://scholar.google.com/citations?user=fW7bzK8AAAAJ&hl=en
 
 -> Dr. Sourav kanti addya
+
    https://souravkaddya.in/
 
 # Contact
