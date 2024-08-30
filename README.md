@@ -85,8 +85,23 @@ with inter-user task dependency, IEEE Transactions on Wireless Communications 19
 [3] F. Chiti, R. Fantacci, B. Picano, A matching theory framework for tasks offloading in fog computing for IoT
 systems, IEEE Internet of Things Journal 5 (6) (2018) 5089–5096. doi: https://doi.org/10.1109/JIOT.2018.2871251
 
+# Contributors
 
+-> Miss Priyanka Soni
+   https://scholar.google.com/citations?user=LZKL3o4AAAAJ&hl=en
 
+-> Mr Ajay Gajanan Hajare
+  https://github.com/AjayHajare
+
+-> Mr. Keerthan Kumar T G
+   https://scholar.google.com/citations?user=fW7bzK8AAAAJ&hl=en
+
+-> Dr. Sourav kanti addya
+   https://souravkaddya.in/
+
+# Contact
+
+If you have any questions, simply write a mail to sonipriyanka31994(AT)gmail(DOT)com
 
 
 
