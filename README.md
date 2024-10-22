@@ -32,9 +32,9 @@ Physical Memory (RAM) 32 GB.
  
  -> So, after expecting the code, it will take that pre-determined values from code, then it will ask for the details related to fogNodes. The details such as computational power of fogNode, power of fogNode, deadline, computational demand, energy, inputSize, weightage, quota.
  
--> Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent tasks. Then for each task it will ask to enter computational demand of each task and input size of each task. 
+-> Once consumed the details of fog nodes, the program will ask for details related to tasks. It will first ask for number of independent tasks. Then for each task it will ask to enter computational demand of each task and input size of each subtask. 
 
--> For simplicity we have given a text file which contains sample input values for number of independent tasks, computational demand of each task and input size of each task. First line this text file represents number of independent task. Then from second line, each pair of two lines represent computational demand and input size. These pair of values repeat for given number of tasks.
+-> For simplicity we have given a text file which contains sample input values for number of independent tasks, computational demand of and input size of each subtask. First line this text file represents number of independent task. Then from second line, each pair of two lines represent computational demand and input size. These pair of values repeat for given number of tasks.
 
 -> The sample input files are provided for both homogeneous environment and heterogeneous environment.
 
