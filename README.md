@@ -28,7 +28,9 @@ Physical Memory (RAM) 32 GB.
 # Code Execution 
  -> There is Main.java file which contains the code of proposed algorithm TReB for uniform generation. We need to to simply run that java file to get the output. 
 
- -> There is MatchingAlgo function which implement one to many matching theory algorithm for every IoT task to a single fog node. 
+ -> There is a MatchingAlgo function that implements a one-to-many matching theory algorithm for assigning each IoT task to a single fog node.
+
+ -> There is a criteria_Weight AHP function that implements the Analytic Hierarchy Process algorithm by evaluating criteria weights for task preference.
  
  -> Once execution started, it will ask for some properties of components used in our architecture such as double computational_demand U[210-480] Mcycles, IoT device frequency (16)MHz, channel frequency(bandwidth) (10)MHz , Distance of IoT device to fog node (100)m, power of iot device U[0.1 to 1]W, power of fog node U[1 to 2]W, output size U[10,20]Kb, computational power of fog node U[0.35, 0.55]W. These values we have defined the range and to make execution simple we have assigned the pre-determined values to these components. 
  
